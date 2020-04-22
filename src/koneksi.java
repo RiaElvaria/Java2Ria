@@ -10,7 +10,7 @@ import java.sql.DriverManager;
 
 /**
  *
- * @author joni
+ * @author Ria Elvaria Zastika
  */
 import java.sql.Connection;
 import java.sql.DriverManager;
