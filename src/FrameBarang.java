@@ -17,7 +17,7 @@ import javax.swing.table.DefaultTableModel;
 
 /**
  *
- * @author
+ * @author Ria Elvaria Zastika
  */
 public class FrameBarang extends javax.swing.JFrame {
     private Statement stat;
